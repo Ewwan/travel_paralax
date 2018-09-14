@@ -15,17 +15,17 @@ body {
 }
 
 #top {
-  background-color: rgb(135, 146, 143, 0.3);
+  background-color: rgba(135, 146, 143, 0.3);
   color: white;
-  padding: 5px 10px;
-  font-size: 1.8vw;
+  padding: .3rem .6rem;
+  font-size: 1.8rem;
   word-spacing: 0.5em;
   text-align: left;
 
         position: -webkit-sticky; /* Safari */
       position: -moz-sticky;
     position: sticky;
-    top: 0;
+    top: 2.4rem;
 
       -webkit-box-shadow: 0 8px 12px rgba(0, 0, 0, 0.3);
     -moz-box-shadow: 0 8px 12px rgba(0, 0, 0, 0.3);
@@ -192,4 +192,15 @@ footer {
 #icon_linkedin:hover {
   background: url(../images/social_media/icons_linkedin_blue.png) no-repeat;
   background-size: 3rem;
+}
+#icon_tripadvisor {
+  display: inline-block;
+  width: 3rem;
+  height: 3rem;
+  background: url(../images/social_media/logo_tripadvisor_black.png) no-repeat;
+  background-size: 2.8rem;
+}
+#icon_tripadvisor:hover {
+  background: url(../images/social_media/logo_tripadvisor.png) no-repeat;
+  background-size: 2.8rem;
 }
