@@ -168,15 +168,28 @@ a:hover {
 }
 
 footer {
+  display: block;
+  height: auto;
 }
 
 .footnote1 {
   background-color: #bcc2c0;
   color: #fff;
-  height: 10vw;
-  padding: 1em 2em 0.5em 2em;
+  padding: 1rem 2rem 0.5rem 2rem;
   text-align: left;
 }
 .footnote2 {
   text-align: right;
+}
+
+#icon_linkedin {
+  display: inline-block;
+  width: 3rem;
+  height: 3rem;
+  background: url(../images/social_media/icons_linkedin.png) no-repeat;
+  background-size: 3rem;
+}
+#icon_linkedin:hover {
+  background: url(../images/social_media/icons_linkedin_blue.png) no-repeat;
+  background-size: 3rem;
 }
