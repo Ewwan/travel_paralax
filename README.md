@@ -3,4 +3,4 @@
 
 <a href="https://ewwan.github.io/travel_paralax/" target="_blank">Link to the project</a>
 
-<a href="https://ewwan.github.io/travel_paralax/"><img src="https://i.imgur.com/6GZzkPN.png" title="travel" /></a>
+<a href="https://ewwan.github.io/travel_paralax/"></a>
